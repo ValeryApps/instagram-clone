@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "304174307027",
-    "project_id": "fb-firebase-9cc19",
-    "storage_bucket": "fb-firebase-9cc19.appspot.com"
+    "project_number": "950659960843",
+    "project_id": "instalval",
+    "storage_bucket": "instalval.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:304174307027:android:8139e16af84a62f44be626",
+        "mobilesdk_app_id": "1:950659960843:android:fc18e6403a7ffaa009770e",
         "android_client_info": {
           "package_name": "africa.victory.tech.insta_val"
         }
       },
       "oauth_client": [
         {
-          "client_id": "304174307027-4s9g3695ivl0bkctme1pcdao9497l3tf.apps.googleusercontent.com",
+          "client_id": "950659960843-rs5rb0r7hdfvsl0a4sd0bfkk93cbih87.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCWdfuZdxBoz_wpjAdpzortni2Pc1cfOb8"
+          "current_key": "AIzaSyAkVUd6biEUQiika1fFRnja3A8ws7GUNcM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "304174307027-4s9g3695ivl0bkctme1pcdao9497l3tf.apps.googleusercontent.com",
+              "client_id": "950659960843-rs5rb0r7hdfvsl0a4sd0bfkk93cbih87.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
